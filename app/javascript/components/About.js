@@ -1,14 +1,10 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React, { Component } from "react";
 
-const About = props => {
-  return (
-    <div>
-      <h1>About</h1>
-    </div>
-  );
-};
-
-About.propTypes = {};
+class About extends Component {
+  state = {};
+  render() {
+    return <div>This is the About page</div>;
+  }
+}
 
 export default About;

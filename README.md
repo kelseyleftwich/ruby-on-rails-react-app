@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project to demo Ruby on Rails with React App
 
-Things you may want to cover:
+Resources:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Build a React App with Ruby on Rails from zayne.io
+- Part 1: https://youtu.be/5F_JUvPq410
+- Part 2: https://youtu.be/hBm5M4u2jLs
